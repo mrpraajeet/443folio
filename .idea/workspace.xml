@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d68e0d19-2504-406d-b973-41203c91f493" name="Changes" comment="Ready to deploy" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="443folio" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="443folio" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mrpraajeet&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mrpraajeet/443folio.git&quot;,
+    &quot;accountId&quot;: &quot;47f65532-f2b2-4f6c-aeb4-25c0fc2efee9&quot;
+  }
+}</component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="$USER_HOME$/.gradle/wrapper/dists/gradle-8.12-bin/cetblhg4pflnnks72fxwobvgv/gradle-8.12" javaHome="$USER_HOME$/.sdkman/candidates/java/21.0.4-jbr" gradleVersion="8.12" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wAHSDQstMyMaYAEV58i20Bin9Z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mrp/Downloads/dex-tools-v2.4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.codeium.AppSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/res" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/js" />
+    </key>
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="commands" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d68e0d19-2504-406d-b973-41203c91f493" name="Changes" comment="" />
+      <created>1745477455527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745477455527</updated>
+      <workItem from="1745477457122" duration="1313000" />
+      <workItem from="1745479250070" duration="5057000" />
+      <workItem from="1745484760465" duration="2355000" />
+      <workItem from="1745498498811" duration="3524000" />
+      <workItem from="1745812671812" duration="364000" />
+      <workItem from="1746675920375" duration="213000" />
+      <workItem from="1747891044454" duration="30698000" />
+      <workItem from="1748010803919" duration="14000" />
+      <workItem from="1748011035993" duration="848000" />
+      <workItem from="1748143221202" duration="378000" />
+      <workItem from="1748859886602" duration="38000" />
+      <workItem from="1748859958173" duration="4535000" />
+      <workItem from="1753105567273" duration="9920000" />
+      <workItem from="1753273099243" duration="4116000" />
+      <workItem from="1753330555619" duration="1410000" />
+      <workItem from="1753611982070" duration="2832000" />
+      <workItem from="1753615459084" duration="6398000" />
+      <workItem from="1753682653024" duration="23570000" />
+      <workItem from="1753769151527" duration="8843000" />
+      <workItem from="1753791126758" duration="5438000" />
+      <workItem from="1753879615937" duration="14999000" />
+      <workItem from="1753940877285" duration="13013000" />
+      <workItem from="1754044678073" duration="12252000" />
+      <workItem from="1754100042171" duration="13437000" />
+      <workItem from="1754291106929" duration="4275000" />
+      <workItem from="1754373764098" duration="7785000" />
+      <workItem from="1754447182102" duration="127000" />
+      <workItem from="1754447342948" duration="10619000" />
+      <workItem from="1754532189625" duration="5103000" />
+      <workItem from="1754634600351" duration="12700000" />
+      <workItem from="1754666415860" duration="4837000" />
+      <workItem from="1754716421048" duration="4856000" />
+      <workItem from="1754749357988" duration="3902000" />
+      <workItem from="1754805800230" duration="736000" />
+      <workItem from="1754828425140" duration="786000" />
+      <workItem from="1754999424836" duration="1612000" />
+      <workItem from="1757607076368" duration="2062000" />
+      <workItem from="1757645569665" duration="1736000" />
+      <workItem from="1757652702760" duration="13165000" />
+      <workItem from="1757694375658" duration="2700000" />
+      <workItem from="1757735584374" duration="1875000" />
+      <workItem from="1757737502632" duration="98000" />
+      <workItem from="1757737624438" duration="21000" />
+      <workItem from="1757737795204" duration="181000" />
+      <workItem from="1757738055524" duration="67000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ready to deploy">
+      <option name="closed" value="true" />
+      <created>1757737251301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757737251301</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="Ready to deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ready to deploy" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

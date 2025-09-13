@@ -1,0 +1,31 @@
+Shortcuts:
+> Use the Up and Down Arrow keys to navigate between previously executed command.
+> Use Ctrl + C or Back Button to stop any running processes (e.g., matrix).
+> Use Ctrl + Shift + C or V to copy/paste.
+> Use Ctrl + A or E to move the cursor to the start/end of the line.
+> Use Ctrl + K or U to delete everything after/before the cursor.
+> Use Ctrl + D to close the terminal tab if no command has been typed.
+> Use Ctrl + L to clear the terminal screen.
+> Use Tab to autocomplete command names. If there were multiple matches, Tab again to show all.
+
+Emulated Commands:
+> alias - Displays all shorthands for cumbersome command.
+> cat [FILE] - Displays the raw text content of the file.
+> cd [DIR = home] - Changes the current directory. Use `-` for previous and `..` for parent.
+> clear - Clears all existing prompts and outputs from the terminal screen.
+> curl [URL] - Displays the raw content of the URL.
+> date / env / hostname / pwd / uname / whoami - Displays environmental info.
+> echo [STRING] - Displays the given string, Use '\n' for newlines.
+> exit / reboot - Closes / Reloads the terminal tab.
+> grep [TEXT] [FILE] - Searches for the given text pattern in the file. Supported flags are `-c` (count), `-i` (case insensitive), `-n` (numbered lines), `-v` (invert) and `-w` (whole word).
+> history [TAIL = all] - Displays the command execution history with optional truncation.
+> killall - Stops all running processes.
+> ls - Lists the contents of the present working directory.
+> open [URL] - Opens the URL in a new browser tab.
+> su [USER = root] - Substitutes to the given user. For simplicity, The user is assumed to exist already.
+
+Custom Commands:
+> demo [INTERVAL = 2s] - Demonstrates a list of essential features one by one.
+> matrix [DURATION = 600s] [FPS = 20] <3 - Starts the falling matrix effect. `<3` at the end replaces ASCII characters with heart emojis.
+> theme - Displays the current theme values according to their argument order.
+> theme [VALUES...] - Changes the appearance of the page, Use `.` to keep the current value and `-` to reset it.
