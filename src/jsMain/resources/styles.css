@@ -26,6 +26,9 @@ body {
   margin: 0.5rem;
 
   & input {
+    text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    
     background-color: var(--terminal-bg);
     color: var(--primary);
     font-family: var(--font-family);
