@@ -5,7 +5,7 @@ Hello there, My name is
 /_/  /_/  \_,_/\_,_/_/ /\__/\__/\__/ 
                   |___/
 
-I'm a CSE graduate looking for my first job in the IT industry.
-To understand how this page works, run `demo` in the field below.
-You can run `alias` instead to check out important shorthands.
-On large screens there will be a panel to the right, ignore it for now.
+> I'm a CSE graduate looking for my first job in the IT industry.
+> To understand how this page works, run `demo` in the field below.
+> You can run `alias` instead to check out important shorthands.
+> On large screens there will be a panel to the right, ignore it for now.
