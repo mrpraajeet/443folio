@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68e0d19-2504-406d-b973-41203c91f493" name="Changes" comment="Ready to deploy" />
+    <list default="true" id="d68e0d19-2504-406d-b973-41203c91f493" name="Changes" comment="Fix small prompt on mobile v2">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jsMain/resources/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/jsMain/resources/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,6 +176,8 @@
       <workItem from="1757737624438" duration="21000" />
       <workItem from="1757737795204" duration="181000" />
       <workItem from="1757738055524" duration="67000" />
+      <workItem from="1758029415748" duration="104000" />
+      <workItem from="1758029562871" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="Ready to deploy">
       <option name="closed" value="true" />
@@ -181,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757737251301</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix small prompt on mobile v2">
+      <option name="closed" value="true" />
+      <created>1758030187941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758030187941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +215,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Ready to deploy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ready to deploy" />
+    <MESSAGE value="Fix small prompt on mobile v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix small prompt on mobile v2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
