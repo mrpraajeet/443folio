@@ -1,4 +1,5 @@
 Shortcuts:
+==========
 > Use the Up and Down Arrow keys to navigate between previously executed command.
 > Use Ctrl + C or Back Button to stop any running processes (e.g., matrix).
 > Use Ctrl + Shift + C or V to copy/paste.
@@ -9,6 +10,7 @@ Shortcuts:
 > Use Tab to autocomplete command names. If there were multiple matches, Tab again to show all.
 
 Emulated Commands:
+==================
 > alias - Displays all shorthands for cumbersome command.
 > cat [FILE] - Displays the raw text content of the file.
 > cd [DIR = home] - Changes the current directory. Use `-` for previous and `..` for parent.
@@ -25,6 +27,7 @@ Emulated Commands:
 > su [USER = root] - Substitutes to the given user. For simplicity, The user is assumed to exist already.
 
 Custom Commands:
+================
 > demo [INTERVAL = 2s] - Demonstrates a list of essential features one by one.
 > matrix [DURATION = 600s] [FPS = 20] <3 - Starts the falling matrix effect. `<3` at the end replaces ASCII characters with heart emojis.
 > theme - Displays the current theme values according to their argument order.
