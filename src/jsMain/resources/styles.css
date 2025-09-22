@@ -5,15 +5,20 @@ html {
   --secondary: yellowgreen; /* Used for prompt and divider */
   --tertiary: lime; /* Used for matrix and divider (while resizing) */
   --font-size: 1rem; /* 1rem = 16px */
-  --font-family: 'Courier New', Courier, monospace;
+  --font-family: 'Noto Sans Mono', monospace;
   --resizer-width: 4px;
   --panel-width: 40vw;
 }
 
 body {
-  background-color: var(--terminal-bg);
-  font-family: var(--font-family), monospace;
+  text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+
+  font-family: var(--font-family) !important;
   font-size: var(--font-size);
+  background-color: var(--terminal-bg);
   margin: 0;
   padding-right: calc(var(--panel-width) + var(--resizer-width));
   box-sizing: border-box;
@@ -26,21 +31,23 @@ body {
   margin: 0.5rem;
 
   & input {
+    font-family: var(--font-family) !important;
+    font-size: var(--font-size);
     background-color: var(--terminal-bg);
     color: var(--primary);
-    font-family: var(--font-family), monospace;
-    font-size: var(--font-size);
     border: none;
     outline: none;
     flex: 1;
   }
-}
 
-span {
-  color: var(--secondary);
+  & span {
+    font-family: var(--font-family) !important;
+    color: var(--secondary);
+  }
 }
 
 pre {
+  font-family: var(--font-family) !important;
   color: var(--primary);
   padding: 0 0.5rem;
   margin: 0;
@@ -108,5 +115,11 @@ body.resizing {
   }
   body {
     padding-right: 0;
+  }
+}
+
+@media (max-width: 430px) {
+  html {
+    --font-size: 0.875rem;
   }
 }
